@@ -8,6 +8,7 @@ body{
     background: #121317;
 }
 .wrapper{
+    padding: 20px;
     position: absolute;
     width: 100%;
     display: flex;
